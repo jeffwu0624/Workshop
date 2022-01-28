@@ -97,6 +97,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\Calculator.cs" />
+    <Compile Include="Util\FestivalReminder.cs" />
+    <Compile Include="Util\UserDataCreator.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
